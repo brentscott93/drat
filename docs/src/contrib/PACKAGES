@@ -1,8 +1,6 @@
-Package: drat
-Version: 0.1.8
-Depends: R (>= 3.2.0)
-Imports: utils
-Suggests: git2r, knitr, rmarkdown
-License: GPL (>= 2)
-MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
+Package: pagecryptr
+Version: 0.0.0.9000
+Imports: V8
+License: MIT + file LICENSE
+MD5sum: ac66826777b520a70184f85b30ef9369
 NeedsCompilation: no
