@@ -1,7 +1,7 @@
 
 ## Brent's `drat` Repository 
 
-Friends dont' let friends install random Git commits...I've been a bad friend. Stable packages will be uploaded here (coming soon!).
+Friends don't let friends install random Git commits...I've been a bad friend. Stable packages will be uploaded here (coming soon!).
 
 ### Stable versions of packages currently included are...
 
