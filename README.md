@@ -9,6 +9,8 @@ Friends don't let friends install random Git commits...I've been a bad friend. S
 
 [*lasertrapr*](https://github.com/brentscott93/lasertrapr) - Automated analysis of laser trap data. Still under heavy development as part of my dissertation so being able to place more stable versions in this `drat` repo is very nifty. 
 
+[*dbalance*](https://github.com/brentscott93/dbalance) - Calculate running Critical Speed, D', and D'-balance. 
+
 ### What is `drat`? 
 From the source:
 
