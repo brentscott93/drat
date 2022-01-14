@@ -1,10 +1,19 @@
+Package: dbalance
+Version: 0.1.0
+Imports: dplyr, purrr, ggplot2, cowplot, magrittr, tibble, stringr
+License: MIT + file LICENSE
+MD5sum: d36e5283984010864577013593b6e7ea
+NeedsCompilation: no
+
 Package: lasertrapr
 Version: 0.0.0.9000
 Depends: tidyverse
-Imports: config, golem, shiny, processx, attempt, DT, glue, htmltools, shinydashboard, shinyWidgets,
-            dygraphs, RcppRoll, shinyjs, pracma, magrittr, fresh, changepoint, gridExtra, gt,
-            shinycssloaders, hexbin, depmixS4, RColorBrewer, rmarkdown, data.table, vroom, survival,
-            survminer, cowplot, rstatix, Hmisc, plotrix, broom, drc, truncdist, ggstatsplot, colourpicker
+Imports: config, golem, shiny, processx, attempt, DT, glue, htmltools,
+        shinydashboard, shinyWidgets, dygraphs, RcppRoll, shinyjs,
+        pracma, magrittr, fresh, changepoint, gridExtra, gt,
+        shinycssloaders, hexbin, depmixS4, RColorBrewer, rmarkdown,
+        data.table, vroom, survival, survminer, cowplot, rstatix, Hmisc,
+        plotrix, broom, drc, truncdist, ggstatsplot, colourpicker
 Suggests: testthat
 License: MIT + file LICENSE
 MD5sum: 0f104c29b79d3e51e33ef7583f00a893
